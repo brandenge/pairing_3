@@ -3,3 +3,8 @@ array.each do |num|
   p num if num > 30
 end
 
+p "--------"
+
+array.each do |num|
+  p num if num < 60
+end
